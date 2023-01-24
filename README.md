@@ -1,4 +1,4 @@
-<h1>Hi, I'm Noah! <br/><a>Cyber Security Student at Grand Valley State University</a>, <a></a>
+<h1>Hi, I'm Noah! <br/><a>Cyber Security Student at Grand Valley State University</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
