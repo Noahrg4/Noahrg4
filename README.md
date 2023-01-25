@@ -11,7 +11,17 @@
 I'm currently working on: 
 - Receiving my Security+ Cert
 - Receiving my PenTest+ Cert
-<!--
+
+  
+Certifications: 
+- OWASP CERTIFICATION https://tryhackme.com/noahrg4/badges/owasp-10
+- WEB FUNDEMENTALS https://tryhackme.com/p/noahrg4?show_achievement_badge=web-fund
+- LINUX COMPETENCE https://tryhackme.com/noahrg4/badges/terminaled
+- PYTHON CERTIFICATION https://www.hackerrank.com/certificates/96bb079829c8?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate
+- 
+  
+  
+ <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
