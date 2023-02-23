@@ -1,7 +1,9 @@
 <h1>Hi, I'm Noah! <br/><a>Cyber Security Student at Grand Valley State University</a>
 
-<h3>Resume: file:///Users/noahreuter-gushow/Downloads/Noah%20Reuter-Gushow%20RESUME%20(1)%20(2).pdf <h3>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>Resume: 
+  file:///Users/noahreuter-gushow/Downloads/Noah%20Reuter-Gushow%20RESUME%20(1)%20(2).pdf <h3>
+
+ <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Converter   https://github.com/Noahrg4/Data-Converter </b>
 - <b> Cellular Automation Simulator   https://github.com/Noahrg4/Conway-s-Cellular-Automation-Simulation </b>
