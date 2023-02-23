@@ -1,7 +1,7 @@
 <h1>Hi, I'm Noah! <br/><a>Cyber Security Student at Grand Valley State University</a>
 
-<h3>Resume: 
-  file:///Users/noahreuter-gushow/Downloads/Noah%20Reuter-Gushow%20RESUME%20(1)%20(2).pdf <h3>
+<h3>Resume:<h3>
+  <b> file:///Users/noahreuter-gushow/Downloads/Noah%20Reuter-Gushow%20RESUME%20(1)%20(2).pdf </b>
 
  <h2>👨‍💻 Software Development Projects:</h2>
 
